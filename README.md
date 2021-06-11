@@ -16,6 +16,15 @@ Therefore it's not easy to select what has biggest potential and what to select 
 We are trying to give best interface here and sort them to give community members best UX and reduce time on research.
 We are planning to provide pitch deck style report for each project. And the project's recent development updates, launchdates etc to let user to not miss opportunities.
 
+Potentials are calculated by voting on several type of categories for investment
+1. Team is strong enough?
+2. Is this idea unique?
+3. How long will it take to build initial product?
+4. Marketing team is strong?
+5. How much fund is put on development?
+
+Note: These questions list will be discussed within community or with investment experts and finalized.
+
 ## What kind of interface community users want to minimize the time they spend to make accurate decisions in selecting the right project?
 
 Please create issue tickets here with detailed features. We are planning to provide 500K QSTK tokens for valid suggestions.
