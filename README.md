@@ -9,7 +9,7 @@ We accept all community members suggesting the idea, and we will be giving token
 We were going to ask users to provide investment opportunities information as part of information NFT and integrate information verifiers there.
 But it involves lots of interactions and several holes. To avoid this, we decided to find a better way by crowd-sourcing the idea.
 
-## New thought1
+## New thought1 by Gopher
 
 Build a coinmarketcap / coingecko like platform focusing on investment information. Currently coin listing platforms are not sorted by potentials.
 Therefore it's not easy to select what has biggest potential and what to select exactly for investment.
